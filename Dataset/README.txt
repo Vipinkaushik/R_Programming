@@ -1,6 +1,5 @@
 ==================================================================
 Script works on the data set for samsung
-Script cleans sensor data from samsung device for analysis.
 Merges the training and test sets to create "master" data set.
 Cleans all column names, reformatting several.
 Decodes activity label by showing the corresponding activity name.
